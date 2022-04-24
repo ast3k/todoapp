@@ -24,10 +24,12 @@ Extra points will be awarded for:
 * A working Dockerfile
 
 # React exercise for developer candidates
+
 Assignment:
 Write a simple TODO-list application with React
 
 Requirements:
+
     * The "TODO" list consists of text items that have a "done/not done" tick.
     * The user must be able to add new lines to the end of the list
     * The user must be able to edit the text content of individual lines
@@ -35,6 +37,7 @@ Requirements:
     * The user must be able to delete individual lines
 
 Extra points will be awarded for:
+
     * Using TypeScript
     * Using linters
     * Using functional components and hooks
