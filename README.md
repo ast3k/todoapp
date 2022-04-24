@@ -1,4 +1,4 @@
-# sofokus_tasks
+# sfks_tasks
 # Django exercise for developer candidates
 
 Assignment:
@@ -30,15 +30,15 @@ Write a simple TODO-list application with React
 
 Requirements:
 
-    * The "TODO" list consists of text items that have a "done/not done" tick.
-    * The user must be able to add new lines to the end of the list
-    * The user must be able to edit the text content of individual lines
-    * The "done/not done" state of a line must be changeable
-    * The user must be able to delete individual lines
+* The "TODO" list consists of text items that have a "done/not done" tick.
+* The user must be able to add new lines to the end of the list
+* The user must be able to edit the text content of individual lines
+* The "done/not done" state of a line must be changeable
+* The user must be able to delete individual lines
 
 Extra points will be awarded for:
 
-    * Using TypeScript
-    * Using linters
-    * Using functional components and hooks
-    * The user is be able to reorder the lines
+* Using TypeScript
+* Using linters
+* Using functional components and hooks
+* The user is be able to reorder the lines
