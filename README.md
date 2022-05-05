@@ -1,9 +1,9 @@
 # sfks_tasks
-# Django exercise for developer candidates
+## Django exercise for developer candidates
 
 Assignment:
 
-Write a simple [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) application that provides a REST API for a "TODO" application.
+Write a simple [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) application that provides a [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) API for a "TODO" application.
 
 Requirements:
 
@@ -23,7 +23,7 @@ Extra points will be awarded for:
 * User authentication
 * A working Dockerfile
 
-# React exercise for developer candidates
+## React exercise for developer candidates
 
 Assignment:
 Write a simple TODO-list application with React
