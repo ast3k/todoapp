@@ -2,7 +2,6 @@
 ## Django exercise for developer candidates
 
 Assignment:
-
 Write a simple [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) application that provides a [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) API for a "TODO" application.
 
 Requirements:
